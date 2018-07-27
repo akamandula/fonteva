@@ -1,0 +1,360 @@
+[
+  {
+    "id": "0000000",
+    "name": "Sleek Rubber Chips",
+    "price": "912.00",
+    "description": "Non at autem aut reprehenderit corporis corporis architecto unde omnis. Voluptates et facilis reiciendis tempore quod. Dicta maiores veritatis sunt facilis inventore omnis aut et sit. Ad minus modi ratione. Porro et qui dolorem qui. Ex accusantium quia quis unde ut aut qui.",
+    "attributes": {
+      "color": "orange",
+      "material": "Frozen"
+    },
+    "image": "https://picsum.photos/600/600/?image=0"
+  },
+  {
+    "id": "0000001",
+    "name": "Handmade Steel Cheese",
+    "price": "158.00",
+    "description": "Placeat voluptates voluptatem quas ducimus facilis ullam officiis. At tempore totam animi sit qui quod incidunt eos veritatis. A blanditiis optio nihil in minus. Sed rerum facere quia. Necessitatibus sunt laborum quisquam voluptas et.",
+    "attributes": {
+      "color": "plum",
+      "material": "Frozen"
+    },
+    "image": "https://picsum.photos/600/600/?image=1"
+  },
+  {
+    "id": "0000002",
+    "name": "Gorgeous Steel Chair",
+    "price": "621.00",
+    "description": "Cumque quaerat saepe quia. Est voluptates excepturi. Esse sapiente numquam perferendis assumenda vel. Voluptatem nulla sint qui nobis harum. Hic enim explicabo ea inventore ullam illo deleniti esse.",
+    "attributes": {
+      "color": "tan",
+      "material": "Granite"
+    },
+    "image": "https://picsum.photos/600/600/?image=2"
+  },
+  {
+    "id": "0000003",
+    "name": "Refined Fresh Bike",
+    "price": "396.00",
+    "description": "Dolores laudantium officia officia qui provident non aut rerum reiciendis. Est dolor quos modi qui dicta praesentium voluptates ratione. Molestiae harum odio.",
+    "attributes": {
+      "color": "purple",
+      "material": "Fresh"
+    },
+    "image": "https://picsum.photos/600/600/?image=3"
+  },
+  {
+    "id": "0000004",
+    "name": "Ergonomic Fresh Keyboard",
+    "price": "582.00",
+    "description": "Fuga aut quis voluptate vitae et. Impedit aut voluptate aperiam dicta molestias voluptatibus soluta. Architecto sed aut quas cum veniam aut. Rerum repellendus fugiat. Placeat tempore non possimus quis ipsum ullam. Voluptates deserunt nostrum possimus.",
+    "attributes": {
+      "color": "white",
+      "material": "Fresh"
+    },
+    "image": "https://picsum.photos/600/600/?image=4"
+  },
+  {
+    "id": "0000005",
+    "name": "Tasty Rubber Shirt",
+    "price": "577.00",
+    "description": "Aut delectus assumenda eos et nobis qui cumque veniam nobis. Maxime atque repudiandae molestiae ea aliquid blanditiis. Vero inventore omnis non quisquam eos aut doloribus et quos. Labore itaque sed recusandae corporis ullam et.",
+    "attributes": {
+      "color": "ivory",
+      "material": "Plastic"
+    },
+    "image": "https://picsum.photos/600/600/?image=5"
+  },
+  {
+    "id": "0000006",
+    "name": "Tasty Fresh Bike",
+    "price": "795.00",
+    "description": "Sint ea consectetur porro aut voluptas. Et odit et unde. Recusandae quod voluptatem.",
+    "attributes": {
+      "color": "indigo",
+      "material": "Granite"
+    },
+    "image": "https://picsum.photos/600/600/?image=6"
+  },
+  {
+    "id": "0000007",
+    "name": "Refined Concrete Keyboard",
+    "price": "199.00",
+    "description": "Velit est voluptatem illum amet. Voluptas corporis neque possimus culpa doloremque. Magni ad iure eum dolore.",
+    "attributes": {
+      "color": "olive",
+      "material": "Frozen"
+    },
+    "image": "https://picsum.photos/600/600/?image=7"
+  },
+  {
+    "id": "0000008",
+    "name": "Sleek Plastic Bike",
+    "price": "20.00",
+    "description": "Non totam et in et odit quo rem cupiditate nihil. Molestiae rerum pariatur vero voluptatem asperiores. Iste necessitatibus nam ut consequatur. Consequatur quos dolore officia id saepe cumque voluptatum ea. Quia voluptas excepturi.",
+    "attributes": {
+      "color": "silver",
+      "material": "Frozen"
+    },
+    "image": "https://picsum.photos/600/600/?image=8"
+  },
+  {
+    "id": "0000009",
+    "name": "Incredible Rubber Car",
+    "price": "313.00",
+    "description": "Nostrum nemo consequatur unde inventore nemo eum provident placeat eum. Facilis sit sint ea porro consequatur voluptatem qui laboriosam. Doloremque debitis consectetur et fuga. Enim temporibus reprehenderit illo voluptas aut quo. Eveniet qui sequi ut qui mollitia mollitia et praesentium autem. Veritatis quia laboriosam cupiditate necessitatibus animi dolores dignissimos delectus eveniet.",
+    "attributes": {
+      "color": "plum",
+      "material": "Wooden"
+    },
+    "image": "https://picsum.photos/600/600/?image=9"
+  },
+  {
+    "id": "00000010",
+    "name": "Practical Steel Pizza",
+    "price": "897.00",
+    "description": "Temporibus est natus aut et dolor architecto accusantium. Sed explicabo sint aut ex adipisci omnis consequatur. Optio aut quia ut earum sint ipsum sequi distinctio harum.",
+    "attributes": {
+      "color": "lavender",
+      "material": "Frozen"
+    },
+    "image": "https://picsum.photos/600/600/?image=10"
+  },
+  {
+    "id": "00000011",
+    "name": "Handmade Soft Table",
+    "price": "692.00",
+    "description": "Animi deleniti est voluptas eum excepturi maxime corrupti temporibus est. Recusandae assumenda et beatae et magnam libero amet. Nobis consectetur rerum. Neque culpa pariatur tenetur optio fugit impedit. Error quod sunt. Fugit error nihil.",
+    "attributes": {
+      "color": "white",
+      "material": "Metal"
+    },
+    "image": "https://picsum.photos/600/600/?image=11"
+  },
+  {
+    "id": "00000012",
+    "name": "Refined Fresh Shoes",
+    "price": "125.00",
+    "description": "Sit repellendus consequatur. Recusandae minima reprehenderit laudantium consequatur. Nesciunt ab totam ab. In iusto odit eaque in iste laboriosam sequi sit mollitia. In ducimus consequatur quidem.",
+    "attributes": {
+      "color": "orchid",
+      "material": "Plastic"
+    },
+    "image": "https://picsum.photos/600/600/?image=12"
+  },
+  {
+    "id": "00000013",
+    "name": "Awesome Concrete Bike",
+    "price": "890.00",
+    "description": "Quaerat mollitia fugit commodi reprehenderit culpa aut officia incidunt. Rerum aut molestias. Hic laudantium aut laboriosam numquam. Non dolores labore autem labore assumenda distinctio quam dolores.",
+    "attributes": {
+      "color": "turquoise",
+      "material": "Cotton"
+    },
+    "image": "https://picsum.photos/600/600/?image=13"
+  },
+  {
+    "id": "00000014",
+    "name": "Sleek Fresh Pizza",
+    "price": "2.00",
+    "description": "Inventore cupiditate quia odit optio minus cum eaque omnis. Quis a ut fugiat. Similique quo amet.",
+    "attributes": {
+      "color": "green",
+      "material": "Metal"
+    },
+    "image": "https://picsum.photos/600/600/?image=14"
+  },
+  {
+    "id": "00000015",
+    "name": "Ergonomic Steel Towels",
+    "price": "92.00",
+    "description": "Vel tempora voluptatum consequatur perspiciatis et reiciendis iusto. Sint debitis tempore dolor vel fuga est assumenda. Corrupti ut sed reprehenderit ut earum excepturi dolorem. Eos dolore magnam error pariatur repellat ipsam aut doloremque.",
+    "attributes": {
+      "color": "cyan",
+      "material": "Rubber"
+    },
+    "image": "https://picsum.photos/600/600/?image=15"
+  },
+  {
+    "id": "00000016",
+    "name": "Practical Rubber Shirt",
+    "price": "850.00",
+    "description": "Dolor sit provident pariatur amet illum sit. Animi rerum enim consequuntur repellendus delectus est eum. Ea eum praesentium vitae eligendi.",
+    "attributes": {
+      "color": "cyan",
+      "material": "Granite"
+    },
+    "image": "https://picsum.photos/600/600/?image=16"
+  },
+  {
+    "id": "00000017",
+    "name": "Awesome Plastic Chair",
+    "price": "416.00",
+    "description": "Est reiciendis ex sit magni laudantium amet. Maxime rerum expedita. Dolorem tempore ipsum consectetur perspiciatis illo earum. Veritatis ut vel eveniet aut et ea et magnam quos.",
+    "attributes": {
+      "color": "sky blue",
+      "material": "Granite"
+    },
+    "image": "https://picsum.photos/600/600/?image=17"
+  },
+  {
+    "id": "00000018",
+    "name": "Refined Rubber Mouse",
+    "price": "188.00",
+    "description": "Eligendi ex aut omnis. Repudiandae repudiandae nihil quam repudiandae aperiam voluptas quae reprehenderit delectus. Et rerum sit in consequatur hic quia ut sit cum. Quia tempora quasi quia et et eos voluptate officia. Neque quas omnis natus labore sunt nostrum dolores. Sit omnis accusamus quos est ab doloribus laboriosam.",
+    "attributes": {
+      "color": "cyan",
+      "material": "Wooden"
+    },
+    "image": "https://picsum.photos/600/600/?image=18"
+  },
+  {
+    "id": "00000019",
+    "name": "Handcrafted Plastic Salad",
+    "price": "462.00",
+    "description": "Tempora vel labore quisquam aut consequatur enim laudantium cupiditate. Aut sit voluptatem ipsa. Nulla iure debitis molestiae repudiandae nostrum dolor explicabo. Odio voluptas animi placeat dicta corporis et aut et fugit. Reiciendis omnis quia sapiente mollitia est aperiam aut omnis. Quis aliquam laboriosam.",
+    "attributes": {
+      "color": "blue",
+      "material": "Soft"
+    },
+    "image": "https://picsum.photos/600/600/?image=19"
+  },
+  {
+    "id": "00000020",
+    "name": "Intelligent Soft Chair",
+    "price": "832.00",
+    "description": "Minus aut cumque aut. Repellendus esse suscipit sunt vel. Nihil voluptate enim velit enim consequatur. Odio fugit sint odit quia. Modi molestiae ut et est ratione sed. Incidunt est corporis facere est.",
+    "attributes": {
+      "color": "gold",
+      "material": "Concrete"
+    },
+    "image": "https://picsum.photos/600/600/?image=20"
+  },
+  {
+    "id": "00000021",
+    "name": "Fantastic Wooden Pants",
+    "price": "96.00",
+    "description": "Veritatis rerum totam neque corrupti. Aut aliquid et ut provident inventore. Minima aliquid rem consequatur eum iste porro quam quis.",
+    "attributes": {
+      "color": "cyan",
+      "material": "Concrete"
+    },
+    "image": "https://picsum.photos/600/600/?image=21"
+  },
+  {
+    "id": "00000022",
+    "name": "Handcrafted Frozen Salad",
+    "price": "673.00",
+    "description": "Maxime harum delectus quisquam voluptate et necessitatibus sed dolores. Occaecati quidem placeat delectus quibusdam laboriosam. Reprehenderit quibusdam tempore.",
+    "attributes": {
+      "color": "plum",
+      "material": "Wooden"
+    },
+    "image": "https://picsum.photos/600/600/?image=22"
+  },
+  {
+    "id": "00000023",
+    "name": "Sleek Concrete Towels",
+    "price": "198.00",
+    "description": "Debitis molestiae blanditiis natus est illo. Ut excepturi explicabo. Qui rerum laudantium commodi dolorem corporis repudiandae rerum sit.",
+    "attributes": {
+      "color": "green",
+      "material": "Granite"
+    },
+    "image": "https://picsum.photos/600/600/?image=23"
+  },
+  {
+    "id": "00000024",
+    "name": "Licensed Frozen Keyboard",
+    "price": "965.00",
+    "description": "Quia aut eius recusandae velit quo maiores ab. Voluptatum rerum expedita. Delectus ut expedita id culpa excepturi perspiciatis impedit. Sapiente et aut aut facere ut quam voluptatem. Alias laborum nulla enim omnis.",
+    "attributes": {
+      "color": "black",
+      "material": "Frozen"
+    },
+    "image": "https://picsum.photos/600/600/?image=24"
+  },
+  {
+    "id": "00000025",
+    "name": "Incredible Granite Shoes",
+    "price": "536.00",
+    "description": "Officia rerum architecto perferendis dolorum consequatur quidem. Aut voluptatem est voluptas ex nemo. Ad quia est tempore. Quas qui officia qui sit mollitia suscipit maxime et quidem. Vel excepturi officia.",
+    "attributes": {
+      "color": "salmon",
+      "material": "Metal"
+    },
+    "image": "https://picsum.photos/600/600/?image=25"
+  },
+  {
+    "id": "00000026",
+    "name": "Handmade Granite Hat",
+    "price": "62.00",
+    "description": "Nesciunt perferendis consequatur eveniet. Placeat eum veniam corporis id quos quisquam nesciunt amet. Natus temporibus sunt totam voluptas ab. Minima accusantium velit autem dolorem maiores et optio inventore. Ut quia alias modi voluptatibus commodi excepturi doloribus perferendis repudiandae. Qui pariatur eveniet architecto at necessitatibus quisquam facere.",
+    "attributes": {
+      "color": "gold",
+      "material": "Frozen"
+    },
+    "image": "https://picsum.photos/600/600/?image=26"
+  },
+  {
+    "id": "00000027",
+    "name": "Sleek Fresh Sausages",
+    "price": "774.00",
+    "description": "Quibusdam adipisci eos vel tenetur sit ducimus. Soluta debitis provident officiis nemo et voluptas exercitationem corporis. Asperiores earum officiis dolore necessitatibus. Soluta quas suscipit. Necessitatibus et in ut tenetur consequuntur et laboriosam. Doloremque tenetur numquam ipsa numquam.",
+    "attributes": {
+      "color": "sky blue",
+      "material": "Soft"
+    },
+    "image": "https://picsum.photos/600/600/?image=27"
+  },
+  {
+    "id": "00000028",
+    "name": "Sleek Rubber Bacon",
+    "price": "574.00",
+    "description": "Dolor quod explicabo. Iusto et voluptatibus. Atque hic eveniet accusantium deleniti sit aut incidunt sit exercitationem. Vel minus nisi sit.",
+    "attributes": {
+      "color": "violet",
+      "material": "Soft"
+    },
+    "image": "https://picsum.photos/600/600/?image=28"
+  },
+  {
+    "id": "00000029",
+    "name": "Rustic Granite Bacon",
+    "price": "365.00",
+    "description": "Fugiat laudantium deleniti doloribus velit neque numquam cum optio. Non non vitae et maiores aliquid quidem explicabo. Quae sed sapiente nihil quasi sit hic.",
+    "attributes": {
+      "color": "violet",
+      "material": "Concrete"
+    },
+    "image": "https://picsum.photos/600/600/?image=29"
+  },
+  {
+    "id": "00000030",
+    "name": "Tasty Wooden Table",
+    "price": "318.00",
+    "description": "Sequi distinctio harum accusantium numquam praesentium et consequatur officia. Soluta quidem dolores eius. Eius deleniti porro sunt atque qui aut. Voluptatibus at voluptatem. Consequatur laborum id vel earum ut sequi qui ipsa accusantium.",
+    "attributes": {
+      "color": "indigo",
+      "material": "Cotton"
+    },
+    "image": "https://picsum.photos/600/600/?image=30"
+  },
+  {
+    "id": "00000031",
+    "name": "Rustic Metal Sausages",
+    "price": "527.00",
+    "description": "Eos et rerum quis. Maxime voluptatem provident. Et iusto quis doloribus qui exercitationem consequatur reprehenderit. Unde quod ullam facere expedita quidem. Quia accusantium id aut quia fugiat.",
+    "attributes": {
+      "color": "green",
+      "material": "Steel"
+    },
+    "image": "https://picsum.photos/600/600/?image=31"
+  },
+  {
+    "id": "00000032",
+    "name": "Small Fresh Towels",
+    "price": "280.00",
+    "description": "Eum non et sed mollitia est. Voluptatum molestiae eveniet. Qui labore rerum vitae id quod impedit. Quidem a dolorum omnis possimus velit. Doloremque modi suscipit et assumenda nihil reprehenderit."
+  }
+]

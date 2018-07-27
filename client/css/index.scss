@@ -1,0 +1,66 @@
+$color1: #3b6c96;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 8px;
+}
+
+body {
+  background: #e2e2e2;
+}
+
+label {
+  display: block;
+}
+
+.hero {
+  margin-bottom: 4rem;
+}
+
+.main {
+  font-size: 16px;
+}
+
+.info-card {
+
+}
+
+// utils
+.img-responsive {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    display: none;
+  }
+}
+
+.sidebar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  top: 0;
+  width: 300px;
+  background: $color1;
+}
+
+.filter-group {
+  padding: 1rem;
+
+  label {
+    color: #fff;
+    margin-bottom: 0.5rem;
+  }
+
+  input[type="text"] {
+    width: 100%;
+    padding: 1rem;
+    borer-radius: 1rem;
+  }
+}
